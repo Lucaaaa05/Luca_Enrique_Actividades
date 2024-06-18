@@ -33,3 +33,5 @@ Requisitos:
 [Escenarios de Casos de uso](https://docs.google.com/spreadsheets/d/1osQHkntITUxNrc2PmTwH3TawX7PnjvPrJJeZxNSvrFY/edit?usp=sharing)
 
 [Tarjetas CRC](https://docs.google.com/spreadsheets/d/12Uli6X1vh0o5i1ppDRKw28z2DbGJE6i9QgB1BAzoPOY/edit?usp=sharing)
+
+[Matriz CLAE](https://docs.google.com/spreadsheets/d/1uLbenjKZIjJE3wVENG38EaDY6w9ybLmAM_i5cRy_CV4/edit?usp=sharing)
