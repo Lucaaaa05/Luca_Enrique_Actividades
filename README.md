@@ -28,7 +28,7 @@ Para las correciones me basé en los comentarios realizados de su parte en la se
 
 [Diagrama de Secuencia (Correción)](https://drive.google.com/file/d/1jhPrIKKlPNgAB0RGPrGRI_rpcikicqtF/view?usp=sharing)
 
-[Diagrama de Clases](https://drive.google.com/file/d/1-GHlmXWWIiWwkC-lLikMCtm-K33LNYZS/view?usp=sharing)
+[Diagrama de Clases (Correción)](https://drive.google.com/file/d/1-GHlmXWWIiWwkC-lLikMCtm-K33LNYZS/view?usp=sharing)
 
 [Diagrama de Casos de uso](https://drive.google.com/file/d/1Fub_TjnwcpzR4RkrEfPhuq9LE8chNA5l/view?usp=sharing)
 
@@ -36,7 +36,7 @@ Para las correciones me basé en los comentarios realizados de su parte en la se
 
 [Tarjetas CRC (Correción)](https://docs.google.com/spreadsheets/d/12Uli6X1vh0o5i1ppDRKw28z2DbGJE6i9QgB1BAzoPOY/edit?usp=sharing)
 
-[Matriz CLAE](https://docs.google.com/spreadsheets/d/1uLbenjKZIjJE3wVENG38EaDY6w9ybLmAM_i5cRy_CV4/edit?usp=sharing)
+[Matriz CLAE (Correción)](https://docs.google.com/spreadsheets/d/1uLbenjKZIjJE3wVENG38EaDY6w9ybLmAM_i5cRy_CV4/edit?usp=sharing)
 
 # Resolución teórica POO
 
